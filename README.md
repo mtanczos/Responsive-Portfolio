@@ -8,7 +8,6 @@ as the screen is resized.
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Features](#features)
-* [To-do list](#To-do list)
 
 
 ## General info
@@ -30,6 +29,6 @@ List of features I incorparated
 
 ## To-do list:
 * Need to add a way of enlarging portfolio images
-* Complete the contact form
+* Complete the contact form so it works
 
 
