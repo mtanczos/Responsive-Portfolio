@@ -1,4 +1,5 @@
 
+/* this css is used for portfolio pics*/
 .Portfolio {
     position: relative;
     margin: 5px;
@@ -10,10 +11,12 @@
     animation: winanim 0.5s;
     -webkit-backface-visibility: visible;
     backface-visibility: visible;
+    /* this used to create shadow effect*/
     box-shadow: 0 3px 5px -1px rgba(0, 0, 0, .2), 0 5px 8px 0 rgba(0, 0, 0, .14), 0 1px 14px 0 rgba(0, 0, 0, .12)
 }
 
 .Portfolio:hover {
+    /* this css is used for shadow effect when user hovers over the image*/
     box-shadow: 0 12px 16px 0 rgba(0, 0, 0, .24), 0 17px 50px 0 rgba(0, 0, 0, .19);
 }
 
@@ -23,6 +26,7 @@
     border-radius: 5px
 }
 
+/* desc is used to style the image caption */
 .desc {
     padding: 5px;
     text-align: center;
